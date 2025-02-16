@@ -4,7 +4,7 @@
 This project aims to predict **customer churn** using a dataset containing customer demographics, usage patterns, and service details. The model leverages **deep learning (CNN)** and **ensemble machine learning** techniques for robust classification.
 
 ## 📂 Dataset
-- **File Name:** `customer_churn_dataset-testing-master.csv`
+- **File Name:** `customer_churn_dataset.csv`
 - **Target Variable:** `Churn` (1 = Churned, 0 = Retained)
 - **Features:**
   - Categorical: `Gender`, `Subscription Type`, `Contract Length`
